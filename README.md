@@ -1,0 +1,1 @@
+# taller-svd-image-compression
